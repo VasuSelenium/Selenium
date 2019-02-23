@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Srikanth" duration-ms="11253" started-at="2019-02-14T02:06:12Z" finished-at="2019-02-14T02:06:23Z">
+    <groups>
+    </groups>
+    <test name="Smoke" duration-ms="11253" started-at="2019-02-14T02:06:12Z" finished-at="2019-02-14T02:06:23Z">
+      <class name="com.vasu.testng.AnnotationsTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="before" is-config="true" duration-ms="13" started-at="2019-02-14T07:36:12Z" finished-at="2019-02-14T07:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="method1" duration-ms="6" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="method2" duration-ms="1" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.vasu.testng.AnnotationsTest@4520ebad]" name="after" is-config="true" duration-ms="0" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.vasu.testng.AnnotationsTest -->
+      <class name="com.vasu.testng.AdminLoginTest">
+        <test-method status="PASS" signature="adminLogin()[pri:0, instance:com.vasu.testng.AdminLoginTest@5419f379]" name="adminLogin" duration-ms="11184" started-at="2019-02-14T07:36:12Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+      </class> <!-- com.vasu.testng.AdminLoginTest -->
+      <class name="com.vasu.testng.MultipleTestCases">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.vasu.testng.MultipleTestCases@7dc7cbad]" name="appLaunch" duration-ms="2" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="appLogin()[pri:0, instance:com.vasu.testng.MultipleTestCases@7dc7cbad]" name="appLogin" duration-ms="2" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+      </class> <!-- com.vasu.testng.MultipleTestCases -->
+      <class name="com.vasu.testng.FirstTestNgTest">
+        <test-method status="PASS" signature="first()[pri:0, instance:com.vasu.testng.FirstTestNgTest@d2cc05a]" name="first" duration-ms="2" started-at="2019-02-14T07:36:23Z" finished-at="2019-02-14T07:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+      </class> <!-- com.vasu.testng.FirstTestNgTest -->
+    </test> <!-- Smoke -->
+  </suite> <!-- Srikanth -->
+</testng-results>
